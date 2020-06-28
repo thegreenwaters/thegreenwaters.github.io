@@ -12,4 +12,4 @@ Rocko ist der Held in der Nickelodeon-Serie "Rockos modernes Leben". Er ist ein 
 Rocko's catchphrase:
 > Git day is a very dangerous day
 
-![Rocko](https://vignette.wikia.nocookie.net/rockosmodernlife/images/5/5e/Rocko_Wallaby.png/revision/latest?cb=20130920192204)
+<img src="https://en.wikipedia.org/wiki/File:Rocko_(Rocko%27s_Modern_Life).png"/>
