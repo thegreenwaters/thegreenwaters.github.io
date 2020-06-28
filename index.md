@@ -4,7 +4,7 @@ Rocko ist der Held in der Nickelodeon-Serie "Rockos modernes Leben". Er ist ein 
 
 ## Rockos Eigenschaften
 
-1. Wallaby
-2. trägt hellblaues Hemd mit violetten Dreiecken
-3. arbeitet in einem Comicladen
-4. Catchphrase: "Oh boy!"
+* Wallaby
+* trägt hellblaues Hemd mit violetten Dreiecken
+* arbeitet in einem Comicladen
+* Catchphrase: "Oh boy!"
