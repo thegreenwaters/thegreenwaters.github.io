@@ -7,4 +7,7 @@ Rocko ist der Held in der Nickelodeon-Serie "Rockos modernes Leben". Er ist ein 
 * Wallaby
 * trägt hellblaues Hemd mit violetten Dreiecken
 * arbeitet in einem Comicladen
-* Catchphrase: "Oh boy!"
+* Catchphrase: "Oh my!"
+
+Rocko's catchphrase:
+> Git day is a very dangerous day
